@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../../reactProject"
+	}
+],
+  "settings": {
+    "java.debug.settings.onBuildFailureProceed": true,
+    "liveServer.settings.multiRootWorkspaceName": "Javascript"
+  }
+}
